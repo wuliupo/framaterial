@@ -1,4 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans:100,200,300,400,700|Roboto:100,200,300,400,500,600);
 @import url(reset.css);
 [class*="material-"] .noto-font p, [class*="material-"] .noto-font a, [class*="material-"] .noto-font h1, [class*="material-"] .noto-font h2, [class*="material-"] .noto-font h3, [class*="material-"] .noto-font h4, [class*="material-"] .noto-font h5, [class*="material-"] .noto-font h6, [class*="material-"] .noto-font blockquote, [class*="material-"] .noto-font small, [class*="material-"] .noto-font strong {
   font-family: Noto Sans, sans-serif; }
